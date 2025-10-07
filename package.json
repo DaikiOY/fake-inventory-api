@@ -2,10 +2,11 @@
   "name": "fake-inventory-api",
   "version": "1.0.0",
   "main": "server.js",
+  "type": "commonjs",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
-    "json-server": "^1.0.0-beta.1"
+    "json-server": "^0.17.4"
   }
 }

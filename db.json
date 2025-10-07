@@ -1,0 +1,180 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "email": "admin12@gmail.com",
+      "fullName": "Administrador General",
+      "phone": "123456789",
+      "address": "Calle Falsa 123",
+      "role": "Administrador",
+      "createdAt": "2024-01-10T12:00:00Z",
+      "password": "admin12",
+      "url": "https://pm1.aminoapps.com/6592/79849d1aec127b65e7b03804c1d761b9cb9f0aad_hq.jpg"
+    },
+    {
+      "id": 2,
+      "username": "daiki",
+      "email": "daikioshiro@gmail.com",
+      "fullName": "Daiki Oshiro",
+      "phone": "977121414",
+      "address": "Calle Asturias 742",
+      "role": "Usuario",
+      "createdAt": "2024-05-20T08:30:00Z",
+      "password": "daiki12",
+      "url": "https://celcliptipsprod.s3-ap-northeast-1.amazonaws.com/tips_article_body/20ec/1709988/abd6b548a8397ec61b8ba79e5f20d7d5"
+    }
+  ],
+  "inventory": [
+    {
+      "month": "2025-10",
+      "products": [
+        { "id": 1, "categoryId": 1, "name": "Litro de Leche", "quantity": 43, "expirationDate": "2026-11-10" },
+        { "id": 2, "categoryId": 2, "name": "Kilo de Carne Molida", "quantity": 16, "expirationDate": "2025-10-12" },
+        { "id": 3, "categoryId": 1, "name": "Queso Fresco", "quantity": 4, "expirationDate": "2025-10-14" },
+        { "id": 4, "categoryId": 2, "name": "Kilo de Pollo", "quantity": 24, "expirationDate": "2025-10-04" },
+        { "id": 5, "categoryId": 4, "name": "Kilo de Pescado", "quantity": 7, "expirationDate": "2025-10-18" },
+        { "id": 6, "categoryId": 3, "name": "Paquete de Salchichas", "quantity": 31, "expirationDate": "2025-12-27" },
+        { "id": 7, "categoryId": 5, "name": "Lechuga", "quantity": 15, "expirationDate": "2025-10-07" },
+        { "id": 8, "categoryId": 6, "name": "Manzanas", "quantity": 2, "expirationDate": "2025-10-20" },
+        { "id": 9, "categoryId": 1, "name": "Paquete de Crema de Leche", "quantity": 12, "expirationDate": "2025-10-25" },
+        { "id": 10, "categoryId": 2, "name": "Kilo de Carne de Res", "quantity": 20, "expirationDate": "2025-10-15" },
+        { "id": 11, "categoryId": 4, "name": "Camarones", "quantity": 18, "expirationDate": "2025-10-19" },
+        { "id": 12, "categoryId": 5, "name": "Tomates", "quantity": 22, "expirationDate": "2025-10-12" },
+        { "id": 13, "categoryId": 6, "name": "Cebollas", "quantity": 30, "expirationDate": "2025-10-22" },
+        { "id": 14, "categoryId": 7, "name": "Kilo de Champiñones", "quantity": 16, "expirationDate": "2025-10-18" },
+        { "id": 15, "categoryId": 8, "name": "Kilo de Espinaca", "quantity": 14, "expirationDate": "2025-10-10" },
+        { "id": 16, "categoryId": 9, "name": "Kilo de Pimientos", "quantity": 20, "expirationDate": "2025-10-16" },
+        { "id": 17, "categoryId": 10, "name": "Botella de Yogurt Natural", "quantity": 22, "expirationDate": "2025-10-28" },
+        { "id": 18, "categoryId": 11, "name": "Paquete de Mantequilla", "quantity": 17, "expirationDate": "2025-12-29" },
+        { "id": 19, "categoryId": 12, "name": "Paquete de Pan Artesanal", "quantity": 18, "expirationDate": "2025-10-09" },
+        { "id": 20, "categoryId": 13, "name": "Paquete de Jamón de Pavo", "quantity": 5, "expirationDate": "2025-12-20" }
+      ]
+    },
+    {
+      "month": "2025-09",
+      "products": [
+        { "id": 1, "categoryId": 1, "name": "Litro de Leche", "quantity": 50, "expirationDate": "2026-11-10" },
+        { "id": 2, "categoryId": 2, "name": "Kilo de Carne Molida", "quantity": 20, "expirationDate": "2025-09-05" },
+        { "id": 3, "categoryId": 1, "name": "Queso Fresco", "quantity": 40, "expirationDate": "2025-09-15" },
+        { "id": 4, "categoryId": 2, "name": "Kilo de Pollo", "quantity": 22, "expirationDate": "2025-09-04" },
+        { "id": 5, "categoryId": 4, "name": "Kilo de Pescado", "quantity": 10, "expirationDate": "2025-09-18" },
+        { "id": 6, "categoryId": 3, "name": "Paquete de Salchichas", "quantity": 40, "expirationDate": "2025-12-27" },
+        { "id": 7, "categoryId": 5, "name": "Lechuga", "quantity": 12, "expirationDate": "2025-09-07" },
+        { "id": 8, "categoryId": 6, "name": "Manzanas", "quantity": 25, "expirationDate": "2025-09-20" },
+        { "id": 9, "categoryId": 1, "name": "Paquete de Crema de Leche", "quantity": 15, "expirationDate": "2025-09-28" },
+        { "id": 10, "categoryId": 2, "name": "Kilo de Carne de Res", "quantity": 18, "expirationDate": "2025-09-14" },
+        { "id": 11, "categoryId": 4, "name": "Camarones", "quantity": 14, "expirationDate": "2025-09-19" },
+        { "id": 12, "categoryId": 5, "name": "Tomates", "quantity": 22, "expirationDate": "2025-10-12" },
+        { "id": 13, "categoryId": 6, "name": "Cebollas", "quantity": 28, "expirationDate": "2025-09-23" },
+        { "id": 14, "categoryId": 7, "name": "Kilo de Champiñones", "quantity": 20, "expirationDate": "2025-10-18" },
+        { "id": 15, "categoryId": 8, "name": "Kilo de Espinaca", "quantity": 16, "expirationDate": "2025-09-09" },
+        { "id": 16, "categoryId": 9, "name": "Kilo de Pimientos", "quantity": 18, "expirationDate": "2025-10-16" },
+        { "id": 17, "categoryId": 10, "name": "Botella de Yogurt Natural", "quantity": 20, "expirationDate": "2025-09-27" },
+        { "id": 18, "categoryId": 11, "name": "Paquete de Mantequilla", "quantity": 20, "expirationDate": "2025-12-29" },
+        { "id": 19, "categoryId": 12, "name": "Paquete de Pan Artesanal", "quantity": 28, "expirationDate": "2025-09-08" },
+        { "id": 20, "categoryId": 13, "name": "Paquete de Jamón de Pavo", "quantity": 14, "expirationDate": "2025-12-20" }
+      ]
+    },
+    {
+      "month": "2025-08",
+      "products": [
+        { "id": 1, "categoryId": 1, "name": "Litro de Leche", "quantity": 45, "expirationDate": "2026-11-10" },
+        { "id": 2, "categoryId": 2, "name": "Kilo de Carne Molida", "quantity": 18, "expirationDate": "2025-08-05" },
+        { "id": 3, "categoryId": 1, "name": "Queso Fresco", "quantity": 35, "expirationDate": "2025-08-15" },
+        { "id": 4, "categoryId": 2, "name": "Kilo de Pollo", "quantity": 20, "expirationDate": "2025-08-04" },
+        { "id": 5, "categoryId": 4, "name": "Kilo de Pescado", "quantity": 9, "expirationDate": "2025-08-18" },
+        { "id": 6, "categoryId": 3, "name": "Paquete de Salchichas", "quantity": 48, "expirationDate": "2025-12-27" },
+        { "id": 7, "categoryId": 5, "name": "Lechuga", "quantity": 10, "expirationDate": "2025-08-07" },
+        { "id": 8, "categoryId": 6, "name": "Manzanas", "quantity": 22, "expirationDate": "2025-08-20" },
+        { "id": 9, "categoryId": 1, "name": "Paquete de Crema de Leche", "quantity": 10, "expirationDate": "2025-08-25" },
+        { "id": 10, "categoryId": 2, "name": "Kilo de Carne de Res", "quantity": 16, "expirationDate": "2025-08-14" },
+        { "id": 11, "categoryId": 4, "name": "Camarones", "quantity": 12, "expirationDate": "2025-08-19" },
+        { "id": 12, "categoryId": 5, "name": "Tomates", "quantity": 20, "expirationDate": "2025-08-12" },
+        { "id": 13, "categoryId": 6, "name": "Cebollas", "quantity": 26, "expirationDate": "2025-08-22" },
+        { "id": 14, "categoryId": 7, "name": "Kilo de Champiñones", "quantity": 18, "expirationDate": "2025-08-16" },
+        { "id": 15, "categoryId": 8, "name": "Kilo de Espinaca", "quantity": 12, "expirationDate": "2025-08-10" },
+        { "id": 16, "categoryId": 9, "name": "Kilo de Pimientos", "quantity": 15, "expirationDate": "2025-08-16" },
+        { "id": 17, "categoryId": 10, "name": "Botella de Yogurt Natural", "quantity": 18, "expirationDate": "2025-08-28" },
+        { "id": 18, "categoryId": 11, "name": "Paquete de Mantequilla", "quantity": 24, "expirationDate": "2025-12-29" },
+        { "id": 19, "categoryId": 12, "name": "Paquete de Pan Artesanal", "quantity": 24, "expirationDate": "2025-08-08" },
+        { "id": 20, "categoryId": 13, "name": "Paquete de Jamón de Pavo", "quantity": 17, "expirationDate": "2025-12-20" }
+      ]
+    },
+    {
+      "month": "2025-07",
+      "products": [
+        { "id": 1, "categoryId": 1, "name": "Litro de Leche", "quantity": 48, "expirationDate": "2026-11-10" },
+        { "id": 2, "categoryId": 2, "name": "Kilo de Carne Molida", "quantity": 19, "expirationDate": "2025-07-05" },
+        { "id": 3, "categoryId": 1, "name": "Queso Fresco", "quantity": 33, "expirationDate": "2025-07-15" },
+        { "id": 4, "categoryId": 2, "name": "Kilo de Pollo", "quantity": 18, "expirationDate": "2025-07-04" },
+        { "id": 5, "categoryId": 4, "name": "Kilo de Pescado", "quantity": 12, "expirationDate": "2025-07-18" },
+        { "id": 6, "categoryId": 3, "name": "Paquete de Salchichas", "quantity": 26, "expirationDate": "2025-07-26" },
+        { "id": 7, "categoryId": 5, "name": "Lechuga", "quantity": 13, "expirationDate": "2025-07-07" },
+        { "id": 8, "categoryId": 6, "name": "Manzanas", "quantity": 24, "expirationDate": "2025-07-20" },
+        { "id": 9, "categoryId": 1, "name": "Paquete de Crema de Leche", "quantity": 11, "expirationDate": "2025-07-25" },
+        { "id": 10, "categoryId": 2, "name": "Kilo de Carne de Res", "quantity": 17, "expirationDate": "2025-07-14" },
+        { "id": 11, "categoryId": 4, "name": "Camarones", "quantity": 13, "expirationDate": "2025-07-19" },
+        { "id": 12, "categoryId": 5, "name": "Tomates", "quantity": 21, "expirationDate": "2025-07-12" },
+        { "id": 13, "categoryId": 6, "name": "Cebollas", "quantity": 27, "expirationDate": "2025-07-22" },
+        { "id": 14, "categoryId": 7, "name": "Kilo de Champiñones", "quantity": 17, "expirationDate": "2025-07-16" },
+        { "id": 15, "categoryId": 8, "name": "Kilo de Espinaca", "quantity": 13, "expirationDate": "2025-07-10" },
+        { "id": 16, "categoryId": 9, "name": "Kilo de Pimientos", "quantity": 16, "expirationDate": "2025-07-16" },
+        { "id": 17, "categoryId": 10, "name": "Botella de Yogurt Natural", "quantity": 19, "expirationDate": "2025-07-28" },
+        { "id": 18, "categoryId": 11, "name": "Paquete de Mantequilla", "quantity": 13, "expirationDate": "2025-07-30" },
+        { "id": 19, "categoryId": 12, "name": "Paquete de Pan Artesanal", "quantity": 22, "expirationDate": "2025-07-08" },
+        { "id": 20, "categoryId": 13, "name": "Paquete de Jamón de Pavo", "quantity": 22, "expirationDate": "2025-12-20" }
+      ]
+    },
+    {
+      "month": "2025-06",
+      "products": [
+        { "id": 1, "categoryId": 1, "name": "Litro de Leche", "quantity": 52, "expirationDate": "2026-11-10" },
+        { "id": 2, "categoryId": 2, "name": "Kilo de Carne Molida", "quantity": 22, "expirationDate": "2025-06-05" },
+        { "id": 3, "categoryId": 1, "name": "Queso Fresco", "quantity": 37, "expirationDate": "2025-06-15" },
+        { "id": 4, "categoryId": 2, "name": "Kilo de Pollo", "quantity": 21, "expirationDate": "2025-06-04" },
+        { "id": 5, "categoryId": 4, "name": "Kilo de Pescado", "quantity": 11, "expirationDate": "2025-06-18" },
+        { "id": 6, "categoryId": 3, "name": "Paquete de Salchichas", "quantity": 30, "expirationDate": "2025-06-26" },
+        { "id": 7, "categoryId": 5, "name": "Lechuga", "quantity": 16, "expirationDate": "2025-06-07" },
+        { "id": 8, "categoryId": 6, "name": "Manzanas", "quantity": 27, "expirationDate": "2025-06-20" },
+        { "id": 9, "categoryId": 1, "name": "Paquete de Crema de Leche", "quantity": 13, "expirationDate": "2025-06-25" },
+        { "id": 10, "categoryId": 2, "name": "Kilo de Carne de Res", "quantity": 20, "expirationDate": "2025-06-14" },
+        { "id": 11, "categoryId": 4, "name": "Camarones", "quantity": 16, "expirationDate": "2025-06-19" },
+        { "id": 12, "categoryId": 5, "name": "Tomates", "quantity": 26, "expirationDate": "2025-06-12" },
+        { "id": 13, "categoryId": 6, "name": "Cebollas", "quantity": 29, "expirationDate": "2025-06-22" },
+        { "id": 14, "categoryId": 7, "name": "Kilo de Champiñones", "quantity": 19, "expirationDate": "2025-06-16" },
+        { "id": 15, "categoryId": 8, "name": "Kilo de Espinaca", "quantity": 16, "expirationDate": "2025-06-07" },
+        { "id": 16, "categoryId": 9, "name": "Kilo de Pimientos", "quantity": 21, "expirationDate": "2025-06-16" },
+        { "id": 17, "categoryId": 10, "name": "Botella de Yogurt Natural", "quantity": 24, "expirationDate": "2025-06-28" },
+        { "id": 18, "categoryId": 11, "name": "Paquete de Mantequilla", "quantity": 15, "expirationDate": "2025-06-30" },
+        { "id": 19, "categoryId": 12, "name": "Paquete de Pan Artesanal", "quantity": 30, "expirationDate": "2025-06-08" },
+        { "id": 20, "categoryId": 13, "name": "Paquete de Jamón de Pavo", "quantity": 18, "expirationDate": "2025-06-20" }
+      ]
+    },
+    {
+      "month": "2025-05",
+      "products": [
+        { "id": 1, "categoryId": 1, "name": "Litro de Leche", "quantity": 49, "expirationDate": "2026-11-10" },
+        { "id": 2, "categoryId": 2, "name": "Kilo de Carne Molida", "quantity": 21, "expirationDate": "2025-05-05" },
+        { "id": 3, "categoryId": 1, "name": "Queso Fresco", "quantity": 34, "expirationDate": "2025-05-15" },
+        { "id": 4, "categoryId": 2, "name": "Kilo de Pollo", "quantity": 19, "expirationDate": "2025-05-04" },
+        { "id": 5, "categoryId": 4, "name": "Kilo de Pescado", "quantity": 13, "expirationDate": "2025-05-18" },
+        { "id": 6, "categoryId": 3, "name": "Paquete de Salchichas", "quantity": 29, "expirationDate": "2025-05-26" },
+        { "id": 7, "categoryId": 5, "name": "Lechuga", "quantity": 14, "expirationDate": "2025-05-07" },
+        { "id": 8, "categoryId": 6, "name": "Manzanas", "quantity": 23, "expirationDate": "2025-05-20" },
+        { "id": 9, "categoryId": 1, "name": "Paquete de Crema de Leche", "quantity": 14, "expirationDate": "2025-05-25" },
+        { "id": 10, "categoryId": 2, "name": "Kilo de Carne de Res", "quantity": 19, "expirationDate": "2025-05-14" },
+        { "id": 11, "categoryId": 4, "name": "Camarones", "quantity": 11, "expirationDate": "2025-05-19" },
+        { "id": 12, "categoryId": 5, "name": "Tomates", "quantity": 23, "expirationDate": "2025-05-12" },
+        { "id": 13, "categoryId": 6, "name": "Cebollas", "quantity": 25, "expirationDate": "2025-05-22" },
+        { "id": 14, "categoryId": 7, "name": "Kilo de Champiñones", "quantity": 15, "expirationDate": "2025-05-16" },
+        { "id": 15, "categoryId": 8, "name": "Kilo de Espinaca", "quantity": 14, "expirationDate": "2025-05-10" },
+        { "id": 16, "categoryId": 9, "name": "Kilo de Pimientos", "quantity": 17, "expirationDate": "2025-05-16" },
+        { "id": 17, "categoryId": 10, "name": "Botella de Yogurt Natural", "quantity": 21, "expirationDate": "2025-05-28" },
+        { "id": 18, "categoryId": 11, "name": "Paquete de Mantequilla", "quantity": 13, "expirationDate": "2025-05-30" },
+        { "id": 19, "categoryId": 12, "name": "Paquete de Pan Artesanal", "quantity": 26, "expirationDate": "2025-05-08" },
+        { "id": 20, "categoryId": 13, "name": "Paquete de Jamón de Pavo", "quantity": 16, "expirationDate": "2025-05-20" }
+      ]
+    }
+  ]
+}
